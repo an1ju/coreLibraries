@@ -36,6 +36,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Default.cs": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
